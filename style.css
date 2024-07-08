@@ -1,0 +1,42 @@
+body{
+    background-color: blueviolet;
+    text-align: center;
+}
+.login{
+    background-color: rgba(255, 255, 255, 0.782);
+    position:center;
+    margin:200px 500px;
+    border-radius:20px;
+}
+img{
+    height:50px;
+    margin:20px
+}
+#input{
+    /* padding-left:40%; */
+    margin:25px;
+    
+}
+input{
+    margin-top:5px;
+    padding:8px;
+}
+form{
+    padding:20px;
+}
+label{
+    font-size:30px;
+}
+button{
+    width:175px;
+    padding:10px;
+    margin-bottom:30px;
+    background-color: blueviolet;
+    color:white;
+    transition: 0.5s;
+    border:none;
+}
+button:hover{
+    background-color:white;
+    color:blueviolet;
+}
